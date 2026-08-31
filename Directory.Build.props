@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <SptRoot>C:\SPT</SptRoot>
+    <KmyRoot>$(SptRoot)\BepInEx\plugins\kmyuhkyuk-KmyTarkovApi</KmyRoot>
+  </PropertyGroup>
+</Project>
